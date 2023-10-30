@@ -6,3 +6,5 @@ seaborn
 notebook
 openpyxl
 imblearn
+fastapi
+uvicorn
