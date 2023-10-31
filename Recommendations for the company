@@ -1,0 +1,22 @@
+Recommendations based on the observation of the data:
+
+1. More single people should be contacted as they have shown more interest in subscribing.
+
+2. Cellular contacts should be made with customers. 
+
+3. The people that should be contacted more are:
+     Management, technicians, blue-collar job holders, admins and retired persons. 
+   The people that should be contacted less are:
+     Students, housemaids, unemployed's, entrepreneurs. 
+
+4. Customers with yearly balance more than 5000 EUR should be of less priority as 88% of them did
+not subscribe. Rather, customers who have balance less than 5000, should be contacted.
+
+5. No need to make more than 4 phone calls. It seems 90% subscription was gotten when done 4 phone
+calls. 
+
+All of these points are also added in the notebook after doing the EDA. 
+
+6. Also they can use the machine learning model's prediction to checkout if there is a possibility
+that the customer can subscribe. It's not fully reliable, but it helps! 
+
