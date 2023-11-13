@@ -7,11 +7,11 @@ To get started, follow these steps:
 
 1. Fork and clone this repository. 
     ```
-    https://github.com/asif-mahmud-am/BlockstakML
+    https://github.com/asif-mahmud-am/Bank-Deposit-Subscription-ML
     ```
 2. After you fork this repository, it will be a part of your github. Then you can clone the repository in your home directory.
     ```
-    git clone https://github.com/your-username/asif-mahmud-am/BlockstakML
+    git clone https://github.com/your-username/asif-mahmud-am/Bank-Deposit-Subscription-ML
     ```
     <br>
      Incase if you need help to clone the repository:
@@ -26,11 +26,11 @@ To get started, follow these steps:
      ```  
 3. After that, create a conda environment 
     ```
-    conda create -n blockstak python=3.10.0
+    conda create -n bank python=3.10.0
     ```
 4. Activate the environment 
     ```
-    conda activate blockstak
+    conda activate bank
     ```
 5. Install the packages 
     ```
